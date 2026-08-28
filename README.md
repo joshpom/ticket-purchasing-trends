@@ -107,4 +107,4 @@ install.packages(c("ggplot2", "dplyr", "tidyr", "scales"))
 
 ## Author
 
-**Josh Pomerantz** — Data Analytics, Atlanta Braves
+**Josh Pomerantz**
