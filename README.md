@@ -18,7 +18,7 @@ Built for the Braves' revenue and ticketing leadership to inform pricing strateg
 ## Key Findings
 
 1. **Volume is up across the board** - 2026 has the highest single-game seats sold in every purchase-timing window (day-of, 1–2 days out, 3–7 days, etc.)
-2. **Conversion rates are improving** - Transactions per primary site hit increased year-over-year, with 2026 showing the strongest conversion at every time horizon
+2. **Conversion rates are improving** - Transactions per primary site hit increased year-over-year, with 2026 showing the strongest conversion at nearly every time horizon
 3. **Timing mix is stable** - Despite higher volume, the proportional split of *when* fans buy has not meaningfully changed; the extra volume is distributed proportionally across all windows, not concentrated in any one bucket
 4. **Primary traffic rebounded** - Site traffic dipped in 2025 but recovered in 2026; secondary market traffic has declined each year
 5. **Consistent across tiers** - Both higher-tier games (Diamond/Marquee/Premier) and lower-tier games (Select/Standard/Value) show the same stable timing distribution
