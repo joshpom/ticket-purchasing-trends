@@ -331,8 +331,8 @@ cat("Wrote single_game_sales.csv:", nrow(single_sales), "rows\n")
 # 4. GAME TIERS
 #
 # Each season's ~30 games are classified into pricing tiers.
-# Higher tiers (Diamond, Marquee, Premier) are premium/rivalry games.
-# Lower tiers (Select, Standard, Value) are regular-season games.
+# Higher tiers (Diamond, Marquee, Premier) are more premium games.
+# Lower tiers (Select, Standard, Value) are lower-demand games.
 # ============================================================================
 
 tier_distribution <- c(
