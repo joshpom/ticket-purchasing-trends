@@ -10,7 +10,7 @@ Despite significant changes in total volume, the **proportional timing mix has r
 
 ## Volume Is Up
 
-2026 is the highest year for single-game seats sold in every single day bucket. This represents a broad-based increase in demand, not a shift in when people buy. Even the lower-volume windows (21+ days out) are up, meaning fans are buying more tickets at every lead time.
+2026 is the highest year for single-game seats sold in every single day bucket. This represents the change in the Braves ticketing strategy and an increase in demand, not a shift in when people buy. Even the lower-volume windows (21+ days out) are up, meaning fans are buying more tickets at every lead time.
 
 ## Conversion Rates Are Improving
 
