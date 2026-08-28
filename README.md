@@ -6,7 +6,7 @@ Analyzed multi-season single-game ticket purchasing behavior for the Atlanta Bra
 
 The analysis combined three data sources across four seasons:
 - **Primary site traffic** - Ticketmaster event detail page clickstream (visitors, visits, hits)
-- **Secondary market traffic** - SeatGeek event page views and checkout activity
+- **Secondary market traffic** - Event page views and checkout activity
 - **Single-game ticket sales** - Transaction-level data (seats sold, revenue, buyer counts)
 
 Built for the Braves' revenue and ticketing leadership to inform pricing strategy and promotional timing.
